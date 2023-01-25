@@ -1,0 +1,54 @@
+[
+  {
+    "title": "ModyDick",
+    "author": "Herman Melville",
+    "characters": [
+      { "name": "Capitan Achab", "gender": "male" },
+      { "name": "Padre Mapple", "gender": "male" },
+      { "name": "Capitan Boomer", "gender": "male" },
+      { "name": "Moby Dick", "gender": "NA" },
+      { "name": "Queequeg", "gender": "male" }
+    ],
+    "editor": "Harper & Brothers",
+    "publicationYear": "1851",
+    "genre": "adventure",
+    "forkids": true,
+    "minAge": 13,
+    "pages": "Na"
+  },
+
+  {
+    "title": "The Merry Adventures of Robin Hood",
+    "author": "Howard Pyle",
+    "characters": [
+      { "name": "Robin Hood", "gender": "male" },
+      { "name": "Little John", "gender": "male" },
+      { "name": "Sheriff of Nottingham", "gender": "male" },
+      { "name": " Richard the Lionheart", "gender": "male" }
+    ],
+    "editor": "Scribner's",
+    "publicationYear": "1883",
+    "genre": "Historical fiction",
+    "forkids": true,
+    "minAge": 13,
+    "pages": "192"
+  },
+
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": " J. K. Rowling",
+    "characters": [
+      { "name": "Harry Potter", "gender": "male" },
+      { "name": "Ronald Wisley", "gender": "male" },
+      { "name": "Hermione Granger", "gender": "female" },
+      { "name": "Nevil Longbottom", "gender": "male" },
+      { "name": "Lord Voldemort", "gender": "male" }
+    ],
+    "editor": "Bloomsbury (UK)",
+    "publicationYear": "1997",
+    "genre": "Fantasy",
+    "forkids": true,
+    "minAge": 13,
+    "pages": "223"
+  }
+]
